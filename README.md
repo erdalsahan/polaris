@@ -1,6 +1,6 @@
 <h1 align="center"> Polaris Monorepo ❄️🔭 </h1>
 
-*The project is still work in progress, see the [disclaimer below](#-warning-under-construction-).*
+*The project is still work in progress, see the [disclaimer below](#-warning-under-construction-).* 
 
 <div>
   <a href="https://codecov.io/gh/berachain/polaris" target="_blank">
